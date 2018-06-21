@@ -1,1 +1,1 @@
-# cookbook-cassandra
+cookbook for cassandra
